@@ -1,7 +1,5 @@
-## Hi there 👋, I am Shariar  Alfaz
+### Hi there 👋, I am Shariar  Alfaz
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: C#/ Java/ PHP/ JavaScript/ Reactjs / OracleDB/ SqlServer/ C++
 
