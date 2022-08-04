@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Profile%20views&color=0e75b6&style=flat" alt="shariar-alfaz" /> </p>
-
 - 🔭 I’m currently working on **AIUB**
 
 - 📫 How to reach me **shariarb6@gmail.com**
