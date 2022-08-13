@@ -1,11 +1,10 @@
+![My Img](https://media-exp1.licdn.com/dms/image/C5622AQF6bxNfmCLySQ/feedshare-shrink_1280/0/1660352932513?e=1663200000&v=beta&t=AEUwWtr4bbpbQ_Mlirvn1pSl1-iAYljSy252vW_ArLs)
 <h1 align="center">Hi 👋, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **AIUB**
 
 - 📫 How to reach me **shariarb6@gmail.com**
-
-![My Img](https://www.instagram.com/p/ChLkU7MB0NgFSfDvMePVwEQcu6RF4wupjMnwKA0/?igshid=YmMyMTA2M2Y=)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
