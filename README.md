@@ -1,4 +1,4 @@
-![My Img](https://media-exp1.licdn.com/dms/image/C5622AQF6bxNfmCLySQ/feedshare-shrink_1280/0/1660352932513?e=1663200000&v=beta&t=AEUwWtr4bbpbQ_Mlirvn1pSl1-iAYljSy252vW_ArLs)
+<img height='500px' src='https://media-exp1.licdn.com/dms/image/C5622AQF6bxNfmCLySQ/feedshare-shrink_1280/0/1660352932513?e=1663200000&v=beta&t=AEUwWtr4bbpbQ_Mlirvn1pSl1-iAYljSy252vW_ArLs'/>
 <h1 align="center">Hi 👋, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
 
