@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shariarb6@gmail.com**
 
-(https://photos.app.goo.gl/ZvibyR4LPuNfC4rK7)
+<img src='https://photos.app.goo.gl/ZvibyR4LPuNfC4rK7'/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
