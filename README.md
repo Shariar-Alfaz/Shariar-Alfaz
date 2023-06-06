@@ -1,4 +1,4 @@
-<img height="100" width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/>
+<img height="100" width="100%" src="https://mcdn.wallpapersafari.com/medium/42/88/9ynmFP.gif"/>
 <img src='https://media.licdn.com/dms/image/D5616AQHL7TCBHZ6xYA/profile-displaybackgroundimage-shrink_350_1400/0/1685806906178?e=1691625600&v=beta&t=nZ2bmVCM273mxf_TTVtMw2nqIc9CNkezpqQ9t6PV47E'/>
 <h1 align="center">Hi <img width="40" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"/>, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
