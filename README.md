@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **AIUB**
+- 🔭 I’m currently working on **Apurba Technologies Ltd.**
 
 - 📫 How to reach me **shariarb6@gmail.com**
 
