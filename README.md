@@ -1,13 +1,12 @@
 <img src='https://media.licdn.com/dms/image/D5616AQHL7TCBHZ6xYA/profile-displaybackgroundimage-shrink_350_1400/0/1685806906178?e=1691625600&v=beta&t=nZ2bmVCM273mxf_TTVtMw2nqIc9CNkezpqQ9t6PV47E'/>
 <h1 align="center">Hi 👋, I'm Shariar Alfaz</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Profile%20views&color=0e75b6&style=flat" alt="shariar-alfaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariar-alfaz" alt="shariar-alfaz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 - 🔭 I’m currently working at [Apurba Technologies Ltd.](https://apurba.com.bd/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shariar-Alfaz/Shariar-Alfaz](https://github.com/Shariar-Alfaz/Shariar-Alfaz)
