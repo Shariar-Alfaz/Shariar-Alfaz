@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariar-alfaz&show_icons=true&locale=en" alt="shariar-alfaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariar-alfaz&" alt="shariar-alfaz" /></p>
-<p>akjsdhajsssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</P>
+<p style="color:blue;">akjsdhajsssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</P>
