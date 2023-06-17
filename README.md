@@ -11,7 +11,7 @@
 <img align="right" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 - 🔭 I’m currently working at <a href="https://apurba.com.bd/">Apurba Technologies Ltd.</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shariar-Alfaz/Shariar-Alfaz]([https://github.com/Shariar-Alfaz/Shariar-Alfaz](https://github.com/Shariar-Alfaz?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Shariar-Alfaz/Shariar-Alfaz](https://github.com/Shariar-Alfaz?tab=repositories)
 
 - 📫 How to reach me **shariarb6@gmail.com**
 
