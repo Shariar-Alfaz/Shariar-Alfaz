@@ -58,19 +58,21 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariar-alfaz&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shariar-Alfaz&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariar-alfaz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shariar-Alfaz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shariar-alfaz&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariar-Alfaz&layout=compact" />
 </p>
+
 
 ---
 
