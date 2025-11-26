@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://freelinkedinbackgrounds.com/wp-content/uploads/2015/01/Technology-006.jpg" />
-</p>
 
 <h1 align="center">
   Hi <img width="35" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif"/> I'm Shariar Alfaz
@@ -79,15 +76,15 @@ console.log(me);
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Shariar-Alfaz&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=shariar-alfaz&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shariar-Alfaz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shariar-alfaz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariar-Alfaz&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar-alfaz&layout=compact" />
 </p>
 
 
