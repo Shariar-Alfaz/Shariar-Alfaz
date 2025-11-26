@@ -6,16 +6,22 @@
 
 <h3 align="center">Software Engineer | .NET & Angular Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 <p align="center">
   <img hspace="5" src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Views&color=0e75b6&style=flat" />
   <img hspace="5" src="https://img.shields.io/github/followers/Shariar-Alfaz?label=Followers&style=flat&color=0e75b6" />
   <img hspace="5" src="https://img.shields.io/github/stars/Shariar-Alfaz?label=Stars&style=flat&color=0e75b6" />
-  <img hspace="5" src="https://img.shields.io/github/repos/Shariar-Alfaz?label=Repos&style=flat&color=0e75b6" />
+   <img hspace="5" src="https://img.shields.io/badge/Status-Coding-brightgreen" />
+  <img hspace="5" src="https://img.shields.io/badge/Focus-Full%20Stack-blue" />
+  <img hspace="5" src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" />
+  <img hspace="5" src="https://img.shields.io/badge/Experience-2%2B%20Years-orange" />
 </p>
-
+<p align="center">
+  <img hspace="5" src="https://img.shields.io/badge/C%23-.NET-blue" />
+  <img hspace="5" src="https://img.shields.io/badge/Angular-Framework-red" />
+  <img hspace="5" src="https://img.shields.io/badge/Flutter-Mobile-blue" />
+  <img hspace="5" src="https://img.shields.io/badge/SQL%20Server-Database-lightgrey" />
+</p>
 ---
 
 ## 👨‍💻 About Me
