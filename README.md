@@ -14,7 +14,7 @@
    <img hspace="5" src="https://img.shields.io/badge/Status-Coding-brightgreen" />
   <img hspace="5" src="https://img.shields.io/badge/Focus-Full%20Stack-blue" />
   <img hspace="5" src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" />
-  <img hspace="5" src="https://img.shields.io/badge/Experience-2%2B%20Years-orange" />
+  <img hspace="5" src="https://img.shields.io/badge/Experience-3%2B%20Years-orange" />
 </p>
 <p align="center">
   <img hspace="5" src="https://img.shields.io/badge/C%23-.NET-blue" />
@@ -22,7 +22,6 @@
   <img hspace="5" src="https://img.shields.io/badge/Flutter-Mobile-blue" />
   <img hspace="5" src="https://img.shields.io/badge/SQL%20Server-Database-lightgrey" />
 </p>
----
 
 ## 👨‍💻 About Me
 
@@ -63,23 +62,6 @@ console.log(me);
   <a href="https://www.hackerrank.com/shariarb6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30"/>
   </a>
-</p>
-
----
-
-## 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
