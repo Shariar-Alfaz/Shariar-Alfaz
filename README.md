@@ -9,6 +9,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<p align="center">
+  <img hspace="5" src="https://komarev.com/ghpvc/?username=shariar-alfaz&label=Views&color=0e75b6&style=flat" />
+  <img hspace="5" src="https://img.shields.io/github/followers/Shariar-Alfaz?label=Followers&style=flat&color=0e75b6" />
+  <img hspace="5" src="https://img.shields.io/github/stars/Shariar-Alfaz?label=Stars&style=flat&color=0e75b6" />
+  <img hspace="5" src="https://img.shields.io/github/repos/Shariar-Alfaz?label=Repos&style=flat&color=0e75b6" />
+</p>
 
 ---
 
@@ -76,15 +82,15 @@ console.log(me);
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=shariar-alfaz&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Shariar-Alfaz&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shariar-alfaz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shariar-Alfaz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariar-alfaz&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariar-Alfaz&layout=compact" />
 </p>
 
 
