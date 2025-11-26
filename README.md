@@ -17,12 +17,29 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **[Paronsoft Solutions](https://paronsoft.com/)**
-- 🌱 Passionate about **ASP.NET, Angular, Flutter, and System Architecture**
-- 👨‍💻 All my projects are available here:  
-  👉 [GitHub Repositories](https://github.com/Shariar-Alfaz?tab=repositories)
-- 📫 Contact me at: **shariarb6@gmail.com**
+```ts
+class Developer {
+  name = "Shariar Alfaz";
+  title = "Software Engineer";
+  location = "Bangladesh";
 
+  skills = [
+    "C#", ".NET", "Angular", "ASP.NET Core",
+    "SQL Server", "Flutter", "Firebase"
+  ];
+
+  currentlyWorkingAt() {
+    return "Paronsoft Solutions Ltd.";
+  }
+
+  contact() {
+    return "shariarb6@gmail.com";
+  }
+}
+
+const me = new Developer();
+console.log(me);
+```
 ---
 
 ## 🌐 Connect With Me
